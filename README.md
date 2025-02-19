@@ -53,7 +53,7 @@ Our code for decision region visualization can be found [here](https://drive.goo
 - Generates **1,000,000 data points** per plot.
 
 ## Citation
-If you use our work, please cite:
+If you use this work, please cite:
 
 ```bibtex
 @article{yang2020dverge,
